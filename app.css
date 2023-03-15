@@ -3,3 +3,13 @@ body {
     background-color: #f2f2f2;
     color: #333333;
 }
+
+body.dark-mode {
+    background-color: #333333;
+    color: #f2f2f2;
+}
+
+body.green-mode{
+    background-color: rgb(3, 144, 3);
+    color: cornsilk;
+}
