@@ -13,3 +13,8 @@ body.green-mode{
     background-color: rgb(3, 144, 3);
     color: cornsilk;
 }
+
+body.yellow-mode{
+    background-color: yellow;
+    color: maroon;
+}
